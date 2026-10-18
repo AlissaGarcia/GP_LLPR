@@ -2,10 +2,30 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: GP LLPR Docs
   structure:
-    - type: space
-      key: space-1
-      title: Documentation
-      path: documentation
+    - type: section
+      key: section-1
+      title: GP LLPR Docs
+      path: gp-llpr-docs
       default: true
-      content:
-        directory: ./documentation
+      children:
+        - type: space
+          key: space-1
+          title: Documentation
+          path: documentation
+          default: true
+          content:
+            directory: ./documentation
+    - type: section
+      key: section-2
+      title: Caderno de Estudos de Lógica e Linguagem de Programação
+      path: caderno-de-estudos-de-logica-e-linguagem-de-programacao
+      icon: notebook
+      children:
+        - type: space
+          key: space-2
+          title: Product Docs
+          path: product-docs
+          default: true
+          draft: true
+          content:
+            directory: ./caderno-de-estudos-de-logica-e-linguagem-de-programacao/product-docs
