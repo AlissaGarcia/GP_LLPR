@@ -1,6 +1,6 @@
 ---
 description: Questões comentadas para desenvolver lógica e resolução de problemas.
-icon: list-check
+icon: notebook
 ---
 
 # Caderno de Questões

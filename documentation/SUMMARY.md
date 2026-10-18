@@ -4,3 +4,4 @@
 * [Caderno de Questões](caderno-de-questoes.md)
 * [Guia de Programação em C](guia-de-programacao-em-c.md)
 * [Introdução ao GitHub](introducao-ao-github.md)
+* [Referências e Indicações Bibliográficas](referencias-e-indicacoes-bibliograficas.md)
