@@ -9,3 +9,10 @@ site:
       default: true
       content:
         directory: ./documentation
+    - type: space
+      key: space-2
+      title: Caderno de Estudos de Lógica de Programação
+      path: product-docs
+      draft: true
+      content:
+        directory: ./product-docs
