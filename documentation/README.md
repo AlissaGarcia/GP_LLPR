@@ -1,6 +1,33 @@
 ---
 description: Materiais e trilhas para desenvolver raciocínio lógico e programação.
 icon: graduation-cap
+cover: .gitbook/assets/Banner Institucional GP de LLPR (1).png
+coverY: 0
+coverHeight: 194
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # Grupo de Estudos de Lógica e Linguagem de Programação
@@ -23,7 +50,7 @@ Este espaço reúne materiais didáticos, exercícios comentados e guias de apre
 
 ### Trilhas de aprendizagem
 
-<table data-view="cards"><thead><tr><th>Trilha</th><th data-card-target data-type="content-ref">Acessar</th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Caderno de Questões</strong><br>Questões comentadas sobre lógica, algoritmos e resolução de problemas.</td><td><a href="caderno-de-questoes.md">caderno-de-questoes.md</a></td><td><a href="https://images.unsplash.com/photo-1517842645767-c639042777db?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxub3RlYnxlbnwwfHx8fDE3OTIzNjUwMzR8MA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1517842645767-c639042777db?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxub3RlYnxlbnwwfHx8fDE3OTIzNjUwMzR8MA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td><strong>Guia de Programação em C</strong><br>Fundamentos de C, do primeiro programa a funções e matrizes.</td><td><a href="guia-de-programacao-em-c.md">guia-de-programacao-em-c.md</a></td><td><a href="https://images.unsplash.com/photo-1542903660-eedba2cda473?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxkYXRhfGVufDB8fHx8MTc5MjM2NTExMHww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1542903660-eedba2cda473?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxkYXRhfGVufDB8fHx8MTc5MjM2NTExMHww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td><strong>Introdução ao GitHub</strong><br>Versionamento, colaboração e organização dos materiais do grupo.</td><td><a href="introducao-ao-github.md">introducao-ao-github.md</a></td><td><a href="https://images.unsplash.com/photo-1644088379091-d574269d422f?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxkYXRhfGVufDB8fHx8MTc5MjM2NTExMHww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1644088379091-d574269d422f?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxkYXRhfGVufDB8fHx8MTc5MjM2NTExMHww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th>Trilha</th><th data-card-target data-type="content-ref">Acessar</th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Caderno de Questões</strong><br>Questões comentadas sobre lógica, algoritmos e resolução de problemas.</td><td><a href="/broken/spaces/JfGCJvOcxIGL5YkW8BbD/pages/syqfWw4BsBaRd1eRpOhS">Broken link</a></td><td><a href="https://images.unsplash.com/photo-1517842645767-c639042777db?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxub3RlYnxlbnwwfHx8fDE3OTIzNjUwMzR8MA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1517842645767-c639042777db?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxub3RlYnxlbnwwfHx8fDE3OTIzNjUwMzR8MA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td><strong>Guia de Programação em C</strong><br>Fundamentos de C, do primeiro programa a funções e matrizes.</td><td><a href="guia-de-programacao-em-c.md">guia-de-programacao-em-c.md</a></td><td><a href="https://images.unsplash.com/photo-1542903660-eedba2cda473?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxkYXRhfGVufDB8fHx8MTc5MjM2NTExMHww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1542903660-eedba2cda473?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxkYXRhfGVufDB8fHx8MTc5MjM2NTExMHww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td><strong>Introdução ao GitHub</strong><br>Versionamento, colaboração e organização dos materiais do grupo.</td><td><a href="introducao-ao-github.md">introducao-ao-github.md</a></td><td><a href="https://images.unsplash.com/photo-1644088379091-d574269d422f?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxkYXRhfGVufDB8fHx8MTc5MjM2NTExMHww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1644088379091-d574269d422f?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxkYXRhfGVufDB8fHx8MTc5MjM2NTExMHww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr></tbody></table>
 
 ### Como aprendemos
 

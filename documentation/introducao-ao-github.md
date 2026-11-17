@@ -1,6 +1,9 @@
 ---
 description: Colabore, registre versões e organize os materiais do grupo.
 icon: code-branch
+cover: .gitbook/assets/Banner Institucional GP de LLPR (1).png
+coverY: 0
+coverHeight: 198
 ---
 
 # Introdução ao GitHub

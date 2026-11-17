@@ -1,6 +1,9 @@
 ---
 description: Fundamentos de programação em C, do ambiente ao uso de funções.
 icon: code
+cover: .gitbook/assets/Banner Institucional GP de LLPR (1).png
+coverY: 0
+coverHeight: 193
 ---
 
 # Guia de Programação em C
