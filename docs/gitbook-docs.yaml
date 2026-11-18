@@ -1,0 +1,19 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: GP LLPR Docs
+  structure:
+    - type: section
+      key: section-1
+      title: Grupo de Estudos de LLPR
+      path: gp-llpr-docs
+      description: "Estudos da Disciplina de Lógica e Linguagem de Programação "
+      icon: screen-users
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: Grupo de Estudos de LLPR
+          path: documentation
+          default: true
+          content:
+            directory: ./documentation
