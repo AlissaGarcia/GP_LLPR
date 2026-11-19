@@ -6,6 +6,7 @@
 
 * [Apresentação](caderno-de-questoes/apresentacao.md)
 * [Questão 01 — Hello, World!](caderno-de-questoes/questao-01-hello-world.md)
+* [Questão 02 — Operações](caderno-de-questoes/questao-02-operacoes.md)
 
 ***
 

@@ -51,7 +51,7 @@ Antes de escrever a solução, procure responder:
 
 Releia a questão para entender, foque nos **verbos**: **Desenvolver algo para Exibir algo...**
 
-> <mark style="background-color:$warning;">Desenvolva</mark> um algoritmo capaz de <mark style="background-color:$warning;">exibir</mark> a mensagem: **Hello, World!**
+> **Desenvolva** um algoritmo capaz de **exibir** a mensagem: Hello, World!
 
 </details>
 
@@ -61,7 +61,7 @@ Releia a questão para entender, foque nos **verbos**: **Desenvolver algo para E
 
 Pense: O que eu preciso dizer para meu computador fazer? O que ele precisa saber para resolver o problema? <i class="fa-face-thinking">:face-thinking:</i>
 
-> Desenvolva um algoritmo capaz de <mark style="background-color:$warning;">exibir a mensagem</mark>: **Hello, World!**
+> Desenvolva um algoritmo capaz de **exibir a mensagem: Hello, World!**
 
 </details>
 
@@ -71,7 +71,7 @@ Pense: O que eu preciso dizer para meu computador fazer? O que ele precisa saber
 
 Qual instrução devemos usar para exibir algo na tela? No nosso caso, como estamos usando pseudocódigo, vamos utilizar o **"Escreva".** &#x20;
 
-> Desenvolva um algoritmo capaz de <mark style="background-color:$warning;">exibir</mark> a mensagem: **Hello, World!**
+> Desenvolva um algoritmo capaz de **exibir** a mensagem: Hello, World!
 
 "Exibir" aqui nessa questão tem o mesmo sentido que a instrução "Escrever" vai ter no nosso código. <i class="fa-pen-line">:pen-line:</i>
 
@@ -83,7 +83,7 @@ Qual instrução devemos usar para exibir algo na tela? No nosso caso, como esta
 
 Por fim, qual comportamento é esperado que o computador tenha? Qual o resultado final de toda a nossa operação? O que a gente deve ter de **saída**?&#x20;
 
-> Desenvolva um algoritmo capaz de exibir <mark style="background-color:$warning;">a mensagem:</mark> <mark style="background-color:$warning;"></mark><mark style="background-color:$warning;">**Hello, World!**</mark>
+> Desenvolva um algoritmo capaz de exibir a mensagem: **Hello, World!**
 
 </details>
 
